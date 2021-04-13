@@ -10,31 +10,12 @@ const bookmarks = [
     ],
   },
   {
-    title: "Media",
+    title: "Social",
     links: [
-      { name: "Youtube", url: "https://youtube.com" },
-      { name: "Spotify", url: "https://open.spotify.com" },
-      { name: "Anime", url: "https://animepahe.com/" },
-      { name: "Fitgirl", url: "https://fitgirl-repacks.site/" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
-    ],
-  },
-  {
-    title: "Reddit",
-    links: [
-      { name: "Feed", url: "https://reddit.com" },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
-      {name: "/r/pcmasterrace",url: "https://reddit.com/r/pcmasterrace",},
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
-      {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
-      },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
+      { name: "Twitter", url: "https://twitter.com" },
+      { name: "Facebook", url: "https://facebook.com" },
+      { name: "Whatsapp", url: "https://web.whatsapp.com" },
+      { name: "Discord", url: "https://discord.com/app" },
     ],
   },
   {
@@ -51,17 +32,36 @@ const bookmarks = [
         url: "https://boards.4chan.org/bant/",
       },
       { name: "/o/", url: "https://boards.4channel.org/o/" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
     ],
   },
   {
-    title: "Social",
+    title: "Media",
     links: [
-      { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
-      { name: "Whatsapp", url: "https://web.whatsapp.com" },
+      { name: "Youtube", url: "https://youtube.com" },
+      { name: "Spotify", url: "https://open.spotify.com" },
+      { name: "Anime", url: "https://animepahe.com/" },
+      { name: "Fitgirl", url: "https://fitgirl-repacks.site/" },
     ],
   },
+  {
+    title: "Reddit",
+    links: [
+      { name: "Home", url: "https://reddit.com" },
+      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
+      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
+      { name: "/r/news", url: "https://reddit.com/r/news" },
+    ],
+  },
+   {
+    title: "Misc",
+    links: [
+      { name: "Sololearn", url: "https://www.sololearn.com/profile/6400088" },
+      { name: "Amazon", url: "https://www.amazon.in" },
+      { name: "      ", url: "      " },
+      { name: "      ", url: "      " },
+    ],
+  }, 
+  
 ];
 
  
