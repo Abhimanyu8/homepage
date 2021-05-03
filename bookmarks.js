@@ -21,17 +21,17 @@ const bookmarks = [
   {
     title: "4chan",
     links: [
-      { name: "/g/", url: "https://boards.4channel.org/g/" },
+      { name: "Technology", url: "https://boards.4channel.org/g/" },
       {
-        name: "/wg/",
+        name: "Wallpapers",
         url: "https://boards.4chan.org/wg/",
       },
-      { name: "/a/", url: "https://boards.4channel.org/a/" },
+      { name: "Anime and Manga", url: "https://boards.4channel.org/a/" },
       {
-        name: "/bant/",
+        name: "International Random",
         url: "https://boards.4chan.org/bant/",
       },
-      { name: "/o/", url: "https://boards.4channel.org/o/" },
+      { name: "Autos", url: "https://boards.4channel.org/o/" },
     ],
   },
   {
@@ -47,9 +47,9 @@ const bookmarks = [
     title: "Reddit",
     links: [
       { name: "Home", url: "https://reddit.com" },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
+      { name: "unixporn", url: "https://reddit.com/r/unixporn" },
+      { name: "me irl", url: "https://reddit.com/r/me_irl" },
+      { name: "news", url: "https://reddit.com/r/news" },
     ],
   },
    {

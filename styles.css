@@ -6,7 +6,7 @@
   --secondaryFg: #b3b3b3;
   --containerBg: #272727;
   --searchBg: var(--containerBg);
-  --scrollbarColor: ##282a36;
+  --scrollbarColor: #272727;
   --fontFamily: 'Courier New', monospace;
 }
 
